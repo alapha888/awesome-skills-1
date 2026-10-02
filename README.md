@@ -103,6 +103,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[HumanLayer show-me](https://github.com/humanlayer/skills/tree/main/plugins/show-me)** — Empowers agents to explain complex architectures and codeflows visually using diagrams, pseudocode, diffs, and standalone HTML artifacts.
 
+- **[alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en)** — Five English productivity skills for coding agents: structured meeting notes, conventional commit messages, a code-review checklist, technical-writing proofreading, and a deep-research framework.
+
 ## Obsidian
 
 - **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Official Obsidian Agent Skills enabling agents to read, write, and manage vaults via the Obsidian CLI, Markdown, Bases, and JSON Canvas.

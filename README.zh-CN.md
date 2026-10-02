@@ -103,6 +103,8 @@
 
 - **[HumanLayer show-me](https://github.com/humanlayer/skills/tree/main/plugins/show-me)** — 让 Agent 能够通过清晰的架构图、伪代码、调用树、差异比对和独立 HTML 页面对代码进行可视化讲解。
 
+- **[alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en)** — 一套面向编程 Agent 的英文效率技能包，包含结构化会议纪要、规范化提交信息、代码审查清单、技术写作校对与深度研究框架五个技能。
+
 ## Obsidian
 
 - **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Obsidian 官方技能套件，指导 Agent 通过 Obsidian CLI 及 Markdown、Bases、JSON Canvas 等开放格式管理双链知识库。
